@@ -1,5 +1,5 @@
 program braingame;
 
 begin
-   write('Welcome to the Brain Games!')
+   writeln('Welcome to the Brain Games!')
 end.
